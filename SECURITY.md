@@ -48,7 +48,7 @@ by generating a new private key and re-deploy the app.
 After the initial assessment and containment to my best abilities, I will
 document all actions taken in a response plan.
 
-I will create a comment in the official "Updates" issue to inform users about
+I will create a comment in [the official "Updates" issue](https://github.com/wip/app/issues/89) to inform users about
 the incident and what I actions I took to contain it.
 
 ### 3. Remediation
