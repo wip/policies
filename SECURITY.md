@@ -3,12 +3,12 @@
 1. [Reporting security problems to WIP](#reporting)
 2. [Security Point of Contact](#contact)
 3. [Incident Response Process](#process)
-4. [Vulnerability Management Plan](#vulnerability-management)
+4. [Vulnerability Management Plans](#vulnerability-management)
 
 <a name="reporting"></a>
 ## Reporting security problems to WIP
 
-**DO NOT CREATE AN ISSUE** to report a security problems. Instead please
+**DO NOT CREATE AN ISSUE** to report a security problem. Instead, please
 send an email to wip.incident-response@martynus.net
 
 <a name="contact"></a>
@@ -25,7 +25,7 @@ If neither Gregor nor Brandon responds then please contact support@github.com
 who can disable any access for the WIP app until the security incident is resolved.
 
 <a name="process"></a>
-## Incident Response
+## Incident Response Process
 
 In case an incident is discovered or reported, I will follow the following
 process to contain, respond and remediate:
