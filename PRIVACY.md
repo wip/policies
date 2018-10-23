@@ -28,7 +28,7 @@ The app receives [CheckRun](https://developer.github.com/v3/activity/events/type
 
 The app is hosted on [Zeit’s now](https://zeit.co/now). No user data is persisted besides a temporary storage of log files for less than 30 days.
 
-For the purpose of monitoring and analytics, log data is shared with [LogDNA](https://logdna.com/) ([LogDNA Privacy Notice](https://logdna.com/privacy-shield/)) for live monitoring and [Amazon S3](https://aws.amazon.com/s3/) for archiving ([Amazon Web Services Privacy Notice](https://aws.amazon.com/privacy/)). Log data is retained for 6 months as required by GitHub Marketplace.
+For the purpose of monitoring and analytics, log data is shared with [LogDNA](https://logdna.com/) ([LogDNA Privacy Notice](https://logdna.com/privacy-shield/)) for live monitoring and [Amazon S3](https://aws.amazon.com/s3/) for archiving ([Amazon Web Services Privacy Notice](https://aws.amazon.com/privacy/)). Log data is retained for 1 year as recommended by GitHub Marketplace.
 
 For the purpose of error tracking, error stacks are shared with [Sentry](https://sentry.io/) ([Privacy notice](https://sentry.io/privacy/)).
 
