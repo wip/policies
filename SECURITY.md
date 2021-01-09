@@ -80,6 +80,6 @@ We learn about critical software updates and security threats from these sources
 
 1. GitHub Security Alerts
 2. [Greenkeeper](https://greenkeeper.io/) Dependency Updates
-3. GitHub: https://status.github.com/ & [@githubstatus](https://twitter.com/githubstatus)
+3. GitHub: https://githubstatus.com/ & [@githubstatus](https://twitter.com/githubstatus)
 4. Zeit (Hosting): https://zeit-status.co/ & [@zeit_status](https://twitter.com/zeit_status)
 5. Travis (CI/CD): https://www.traviscistatus.com/ & [@traviscistatus](https://twitter.com/traviscistatus)
